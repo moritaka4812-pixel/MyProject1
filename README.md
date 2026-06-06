@@ -5,9 +5,9 @@
 使用ライブラリ: pandas, scikit-learn, matplotlib, nltk  
 インストール方法: 次のコマンドをコマンドラインで実行  
 
-'''  
+```
 pip install pandas scikit-learn matplotlib nltk  
-'''  
+```
 データセット: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download  
 各ファイルの説明:  
 Figures/ :機械学習の学習の処理結果のグラフを格納したファイル  
