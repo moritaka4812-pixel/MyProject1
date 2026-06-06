@@ -4,10 +4,10 @@
 環境: Windows11, VSCode <br>
 使用ライブラリ: pandas, scikit-learn, matplotlib, nltk<br>
 インストール方法: 次のコマンドをコマンドラインで実行 <br>
-'pip install pandas scikit-learn matplotlib nltk'<br>
+\'pip install pandas scikit-learn matplotlib nltk\'<br>
 データセット: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download <br>
 各ファイルの説明:<br>
-Figures/ :機械学習の学習の処理結果のグラフを格納したファイル
-Notebooks/FakeNewsMachineLearning.ipynb: すべての比較のベースとなる機械学習
-Notebooks/FakeNewsMLCompare/01_Preprocessing.ipynb: 比較において共通の処理をまとめたもの
-Notebooks/FakeNewsMLCompare/02_TF-IDF_And_LogisticRegression: TF-IDFとロジスティック回帰を使った学習
+Figures/ :機械学習の学習の処理結果のグラフを格納したファイル<br>
+Notebooks/FakeNewsMachineLearning.ipynb: すべての比較のベースとなる機械学習<br>
+Notebooks/FakeNewsMLCompare/01_Preprocessing.ipynb: 比較において共通の処理をまとめたもの<br>
+Notebooks/FakeNewsMLCompare/02_TF-IDF_And_LogisticRegression: TF-IDFとロジスティック回帰を使った学習<br>
