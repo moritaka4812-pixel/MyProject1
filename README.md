@@ -12,7 +12,7 @@ pip install pandas scikit-learn matplotlib nltk
 https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download  
 # 各ファイルの説明:  
 
-Figures/ :機械学習の学習の処理結果のグラフを格納したファイル  
-Notebooks/FakeNewsMachineLearning.ipynb: すべての比較のベースとなる機械学習  
-Notebooks/FakeNewsMLCompare/01_Preprocessing.ipynb: 比較において共通の処理をまとめたもの  
-Notebooks/FakeNewsMLCompare/02_TF-IDF_And_LogisticRegression: TF-IDFとロジスティック回帰を使った学習  
+- Figures/ :機械学習の学習の処理結果のグラフを格納したファイル  
+- Notebooks/FakeNewsMachineLearning.ipynb: すべての比較のベースとなる機械学習  
+- Notebooks/FakeNewsMLCompare/01_Preprocessing.ipynb: 比較において共通の処理をまとめたもの  
+- Notebooks/FakeNewsMLCompare/02_TF-IDF_And_LogisticRegression: TF-IDFとロジスティック回帰を使った学習  
