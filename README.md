@@ -36,6 +36,11 @@ pip install pandas scikit-learn matplotlib nltk gensim
 ```
 python -m pip install pandas scikit-learn matplotlib nltk gensim
 ```
+インストールしたライブラリの確認は以下
+```
+python -m pip list
+```
+
 ## データセット 
 
 https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download 
