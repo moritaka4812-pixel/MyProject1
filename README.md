@@ -3,6 +3,7 @@
 使用言語:  
 - python 3.11 (64bit)  Word2Vec実行用
 - python 3.14.5  その他モデル比較用  
+
 仮想環境の作成方法: python 3.14.5は以下を実行  
 ```
 py -3.14 -m venv .venv314
